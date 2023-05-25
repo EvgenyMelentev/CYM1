@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Иван",
+        "password": 11,
+        "login": "John"
+    },
+    {
+        "name": "Василий",
+        "password": 22,
+        "login": "Vasyliy"
+    },
+    {
+        "name": "Евгений",
+        "password": 33,
+        "login": "Eugin"
+    },
+    {
+        "name": "Артур",
+        "password": 44,
+        "login": "mrKing"
+    },
+    {
+        "name": "Александр",
+        "password": 55,
+        "login": "Alex"
+    }
+]
